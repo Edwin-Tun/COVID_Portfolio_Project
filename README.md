@@ -1,7 +1,7 @@
 # Case study
 1. [Cyclistic_bike_share](https://github.com/Edwin-Tun/Portfolio_Project/tree/main/Case%20Study/Cyclistic_bike_share)
     * Used _**R**_ to explore the dataset and perform data analysis for a fictional company to deliver actionable insight to the marketing team. Used ggplot to produce visual to help explain the finding. 
-    * Completed a comphrehensive report on the business task.
+    * Completed a comprehensive report on the business task.
     * Used _**Tableau**_ to create a interactive dashboard. (Coming Soon)
 
 2. Bella FitBit(Coming Soon)
